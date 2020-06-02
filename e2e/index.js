@@ -17,7 +17,7 @@ test('Fill', async t => {
   const endMinutes = Selector('input#xmm0');
 
   await t
-    .typeText(Selector('#compKeyboard'), '3912')
+    .typeText(Selector('#compKeyboard'), companyId)
     .typeText(Selector('#nameKeyboard'), employId)
     .typeText(Selector('#pwKeyboard'), password)
     .click(Selector('input[type="image"]'));

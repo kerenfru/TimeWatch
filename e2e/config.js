@@ -1,5 +1,6 @@
 export const employId = '';
 export const password = '';
+export const companyId = '';
 export const monthToBeFilled = '';
 export const hour_start = '09';
 export const minutes_start = '00';
