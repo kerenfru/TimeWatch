@@ -5,6 +5,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 In config.js, fill in the cradentials you have in timewatch.co.il.
 (Employee number and Password)
 
-than,
+then,
 
 npm run test
